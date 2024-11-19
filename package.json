@@ -1,0 +1,19 @@
+{
+  "name": "fruit-cutting-master-web",
+  "private": true,
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  },
+  "dependencies": {
+    "@mediapipe/pose": "^0.5.1675469404",
+    "@mediapipe/camera_utils": "^0.3.1620248972",
+    "@mediapipe/drawing_utils": "^0.3.1620248972"
+  }
+}
